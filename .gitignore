@@ -2,3 +2,7 @@
 .htmlhintrc
 .stylelintrc
 .eslintrc.json
+stopwatch.html
+scrapBook.html
+css/stopwatch.css
+js/stopwatch.js
